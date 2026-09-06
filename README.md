@@ -1,4 +1,4 @@
-# leetcood_notes
+# leetcode_notes
 
 常见力扣算法题解（Python）
 
